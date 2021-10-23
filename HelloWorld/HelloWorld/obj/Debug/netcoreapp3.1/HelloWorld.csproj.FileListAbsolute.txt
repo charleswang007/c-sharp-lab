@@ -1,0 +1,14 @@
+C:\Users\charleswang\GitHub\c-sharp-lab\HelloWorld\HelloWorld\bin\Debug\netcoreapp3.1\HelloWorld.exe
+C:\Users\charleswang\GitHub\c-sharp-lab\HelloWorld\HelloWorld\bin\Debug\netcoreapp3.1\HelloWorld.deps.json
+C:\Users\charleswang\GitHub\c-sharp-lab\HelloWorld\HelloWorld\bin\Debug\netcoreapp3.1\HelloWorld.runtimeconfig.json
+C:\Users\charleswang\GitHub\c-sharp-lab\HelloWorld\HelloWorld\bin\Debug\netcoreapp3.1\HelloWorld.runtimeconfig.dev.json
+C:\Users\charleswang\GitHub\c-sharp-lab\HelloWorld\HelloWorld\bin\Debug\netcoreapp3.1\HelloWorld.dll
+C:\Users\charleswang\GitHub\c-sharp-lab\HelloWorld\HelloWorld\bin\Debug\netcoreapp3.1\HelloWorld.pdb
+C:\Users\charleswang\GitHub\c-sharp-lab\HelloWorld\HelloWorld\obj\Debug\netcoreapp3.1\HelloWorld.csproj.AssemblyReference.cache
+C:\Users\charleswang\GitHub\c-sharp-lab\HelloWorld\HelloWorld\obj\Debug\netcoreapp3.1\HelloWorld.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\charleswang\GitHub\c-sharp-lab\HelloWorld\HelloWorld\obj\Debug\netcoreapp3.1\HelloWorld.AssemblyInfoInputs.cache
+C:\Users\charleswang\GitHub\c-sharp-lab\HelloWorld\HelloWorld\obj\Debug\netcoreapp3.1\HelloWorld.AssemblyInfo.cs
+C:\Users\charleswang\GitHub\c-sharp-lab\HelloWorld\HelloWorld\obj\Debug\netcoreapp3.1\HelloWorld.csproj.CoreCompileInputs.cache
+C:\Users\charleswang\GitHub\c-sharp-lab\HelloWorld\HelloWorld\obj\Debug\netcoreapp3.1\HelloWorld.dll
+C:\Users\charleswang\GitHub\c-sharp-lab\HelloWorld\HelloWorld\obj\Debug\netcoreapp3.1\HelloWorld.pdb
+C:\Users\charleswang\GitHub\c-sharp-lab\HelloWorld\HelloWorld\obj\Debug\netcoreapp3.1\HelloWorld.genruntimeconfig.cache
