@@ -2,4 +2,4 @@
 
 ## Reference
 
-1. [https://docs.microsoft.com/zh-tw/visualstudio/get-started/csharp/?view=vs-2019] (https://docs.microsoft.com/zh-tw/visualstudio/get-started/csharp/?view=vs-2019)
+1. https://docs.microsoft.com/zh-tw/visualstudio/get-started/csharp/?view=vs-2019
