@@ -2,7 +2,7 @@
 
 ## UWP Example
 
-![puppy-love.PNG "Puppy Love Application")
+![puppy-love.PNG](puppy-love.PNG "Puppy Love Application")
 
 ## Reference
 
