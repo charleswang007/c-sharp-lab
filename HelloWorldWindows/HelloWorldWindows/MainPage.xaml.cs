@@ -29,8 +29,9 @@ namespace HelloWorldWindows
         private async void Button_Click(object sender, RoutedEventArgs e)
         {
             MediaElement mediaElement = new MediaElement();
+            Button b = (Button)sender;
             var synth = new Windows.Media.SpeechSynthesis.SpeechSynthesizer();
-            Windows.Media.SpeechSynthesis.SpeechSynthesisStream stream = await synth.SynthesizeTextToStreamAsync("Puppy Is So Cute!");
+            Windows.Media.SpeechSynthesis.SpeechSynthesisStream stream = await synth.SynthesizeTextToStreamAsync((string)b.Content);
             mediaElement.SetSource(stream, stream.ContentType);
             mediaElement.Play();
         }

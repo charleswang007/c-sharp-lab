@@ -6,10 +6,13 @@
     xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
     xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
     mc:Ignorable="d"
-    Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+    Background="{ThemeResource ApplicationPageBackgroundThemeBrush}" Height="802" Width="1218">
 
-    <Grid>
-        <Button Content="Puppy Is So Cute!" Margin="0,406,0,0" VerticalAlignment="Top" Height="177" Width="339" HorizontalAlignment="Center" Click="Button_Click" FontSize="32" Background="#66FF0000" FontFamily="Lucida Calligraphy"/>
+    <Grid Margin="0,0,10,0">
+        <Button Content="Puppy&#xD;&#xA;Is So Cute!" Margin="187,190,0,0" VerticalAlignment="Top" Height="177" Width="339" Click="Button_Click" FontSize="32" Background="#66FF0000" FontFamily="Lucida Calligraphy"/>
+        <Button Content="Hsiao Bei&#xD;&#xA;Is So Cute!" Margin="618,183,0,0" VerticalAlignment="Top" Height="177" Width="339" Click="Button_Click" FontSize="32" Background="#6600C5FF" FontFamily="Lucida Calligraphy"/>
+        <Button Content="Pee Pee&#xD;&#xA;Is So Cute!" Margin="187,456,0,0" VerticalAlignment="Top" Height="177" Width="339" Click="Button_Click" FontSize="32" Background="#6600FF17" FontFamily="Lucida Calligraphy"/>
+        <Button Content="Lang Chuan&#xD;&#xA;Is So Cute!" Margin="618,456,0,0" VerticalAlignment="Top" Height="184" Width="339" Click="Button_Click" FontSize="32" Background="#66FFEE00" FontFamily="Lucida Calligraphy"/>
 
     </Grid>
 </Page>
