@@ -1,0 +1,24 @@
+C:\Users\EZone-Meyi\Desktop\Books\C#2019\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\EZone-Meyi\Desktop\Books\C#2019\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\EZone-Meyi\Desktop\Books\C#2019\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\EZone-Meyi\Desktop\Books\C#2019\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Microsoft.VisualBasic.PowerPacks.Vs.dll
+C:\Users\EZone-Meyi\Desktop\Books\C#2019\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\zh-Hant\Microsoft.VisualBasic.PowerPacks.Vs.resources.dll
+C:\Users\EZone-Meyi\Desktop\Books\C#2019\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+C:\Users\EZone-Meyi\Desktop\Books\C#2019\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\EZone-Meyi\Desktop\Books\C#2019\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\EZone-Meyi\Desktop\Books\C#2019\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\EZone-Meyi\Desktop\Books\C#2019\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
+C:\Users\EZone-Meyi\Desktop\Books\C#2019\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\EZone-Meyi\Desktop\Books\C#2019\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\charleswang\GitHub\c-sharp-lab\Visual C# Web Programming\02_UDPDaub\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\charleswang\GitHub\c-sharp-lab\Visual C# Web Programming\02_UDPDaub\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\charleswang\GitHub\c-sharp-lab\Visual C# Web Programming\02_UDPDaub\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\charleswang\GitHub\c-sharp-lab\Visual C# Web Programming\02_UDPDaub\WindowsFormsApp1\bin\Debug\zh-Hant\Microsoft.VisualBasic.PowerPacks.Vs.resources.dll
+C:\Users\charleswang\GitHub\c-sharp-lab\Visual C# Web Programming\02_UDPDaub\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\charleswang\GitHub\c-sharp-lab\Visual C# Web Programming\02_UDPDaub\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\charleswang\GitHub\c-sharp-lab\Visual C# Web Programming\02_UDPDaub\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\charleswang\GitHub\c-sharp-lab\Visual C# Web Programming\02_UDPDaub\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\charleswang\GitHub\c-sharp-lab\Visual C# Web Programming\02_UDPDaub\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\charleswang\GitHub\c-sharp-lab\Visual C# Web Programming\02_UDPDaub\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
+C:\Users\charleswang\GitHub\c-sharp-lab\Visual C# Web Programming\02_UDPDaub\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\charleswang\GitHub\c-sharp-lab\Visual C# Web Programming\02_UDPDaub\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
