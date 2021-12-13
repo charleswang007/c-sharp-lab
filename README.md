@@ -6,7 +6,7 @@
 
 ## Visual C#網路程式設計－線上遊戲實作
 1. Chapter 1: UDP 即時通程式
-![ex1-1.PNG](Screenshots/ex1-1.PNG "Ch1")
+![ex1-1.PNG](Screenshots/ex1-1.png "Ch1")
 
 ## Reference
 
