@@ -30,13 +30,13 @@
     <AppXManifest Include="C:\Users\charleswang\GitHub\c-sharp-lab\HelloWorldWindows\HelloWorldWindows\bin\x86\Debug\Core\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2021-10-24T01:58:31.205</Modified>
+      <Modified>2021-10-24T12:49:57.177</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
     <AppxPackagedFile Include="C:\Users\charleswang\GitHub\c-sharp-lab\HelloWorldWindows\HelloWorldWindows\bin\x86\Debug\HelloWorldWindows.exe">
       <PackagePath>entrypoint\HelloWorldWindows.exe</PackagePath>
-      <Modified>2021-10-24T01:58:30.620</Modified>
+      <Modified>2021-10-24T12:49:56.642</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\UWPNuGetPackages\runtime.win10-x86.microsoft.netcore.universalwindowsplatform\6.2.12\runtimes\win10-x86\lib\uap10.0.15138\System.Runtime.dll">
       <PackagePath>System.Runtime.dll</PackagePath>
@@ -90,11 +90,11 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\charleswang\GitHub\c-sharp-lab\HelloWorldWindows\HelloWorldWindows\bin\x86\Debug\App.xbf">
       <PackagePath>App.xbf</PackagePath>
-      <Modified>2021-10-24T01:27:27.067</Modified>
+      <Modified>2021-10-24T12:47:43.460</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\charleswang\GitHub\c-sharp-lab\HelloWorldWindows\HelloWorldWindows\bin\x86\Debug\MainPage.xbf">
       <PackagePath>MainPage.xbf</PackagePath>
-      <Modified>2021-10-24T01:58:30.535</Modified>
+      <Modified>2021-10-24T12:47:43.461</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files %28x86%29\Windows Kits\10\UnionMetadata\10.0.19041.0\Windows.winmd">
       <PackagePath>WinMetadata\Windows.winmd</PackagePath>
@@ -106,7 +106,7 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\charleswang\GitHub\c-sharp-lab\HelloWorldWindows\HelloWorldWindows\bin\x86\Debug\Core\HelloWorldWindows.exe">
       <PackagePath>HelloWorldWindows.exe</PackagePath>
-      <Modified>2021-10-24T01:58:31.186</Modified>
+      <Modified>2021-10-24T12:49:57.169</Modified>
     </AppxPackagedFile>
   </ItemGroup>
   <ItemGroup>

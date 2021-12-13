@@ -5,6 +5,7 @@ using System.Linq;
 using System.Runtime.InteropServices.WindowsRuntime;
 using Windows.Foundation;
 using Windows.Foundation.Collections;
+using Windows.Media.SpeechSynthesis;
 using Windows.UI.Xaml;
 using Windows.UI.Xaml.Controls;
 using Windows.UI.Xaml.Controls.Primitives;
@@ -31,6 +32,15 @@ namespace HelloWorldWindows
             MediaElement mediaElement = new MediaElement();
             Button b = (Button)sender;
             var synth = new Windows.Media.SpeechSynthesis.SpeechSynthesizer();
+
+            Windows.Media.SpeechSynthesis.VoiceInformation voiceInfo =
+            (
+                from voice in SpeechSynthesizer.AllVoices
+                where voice.Gender == VoiceGender.Male
+                select voice
+            ).FirstOrDefault() ?? SpeechSynthesizer.DefaultVoice;
+
+            synth.Voice = voiceInfo;
             Windows.Media.SpeechSynthesis.SpeechSynthesisStream stream = await synth.SynthesizeTextToStreamAsync((string)b.Content);
             mediaElement.SetSource(stream, stream.ContentType);
             mediaElement.Play();
