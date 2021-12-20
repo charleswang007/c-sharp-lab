@@ -14,7 +14,7 @@
 
 ![ex2-1.PNG](Screenshots/ex2-1.png "Ch2")
 
-### Chapter 2: UDP 聊天室
+### Chapter 3: UDP 聊天室
 
 ![ex3-1.jpeg](Screenshots/ex3-1.jpeg "Ch3")
 
