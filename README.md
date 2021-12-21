@@ -22,6 +22,10 @@
 
 ![ex4-1.png](Screenshots/ex4-1.png "Ch4")
 
+### Chapter 5: TCP 連線與離線
+
+![ex5-1.png](Screenshots/ex5-1.png "Ch5")
+
 ## Reference
 
 1. https://docs.microsoft.com/zh-tw/visualstudio/get-started/csharp/?view=vs-2019
