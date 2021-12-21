@@ -20,7 +20,7 @@
 
 ### Chapter 4: UDP Server - 單一通訊埠的通訊
 
-![ex4-1.PNG](Screenshots/ex4-1.PNG "Ch4")
+![ex4-1.png](Screenshots/ex4-1.png "Ch4")
 
 ## Reference
 
