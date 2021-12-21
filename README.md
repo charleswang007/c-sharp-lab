@@ -26,6 +26,10 @@
 
 ![ex5-1.png](Screenshots/ex5-1.png "Ch5")
 
+### Chapter 6: TCP 聊天室
+
+![ex6-1.png](Screenshots/ex6-1.png "Ch6")
+
 ## Reference
 
 1. https://docs.microsoft.com/zh-tw/visualstudio/get-started/csharp/?view=vs-2019
