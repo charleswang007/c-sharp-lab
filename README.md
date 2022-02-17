@@ -32,6 +32,8 @@
 
 ### Chapter 7: 線上五子棋
 
+![ex7-1.jpg](Screenshots/ex7-1.jpg "Ch7")
+
 ## Reference
 
 1. https://docs.microsoft.com/zh-tw/visualstudio/get-started/csharp/?view=vs-2019
